@@ -9,7 +9,7 @@ export function ModalPassword({senha, handleClose, salvarSenha}) {
         Toast.show({
             type: 'success',
             text1: 'senha salva',
-            text2: 'ja foi copiada',
+            text2: 'senha copiada',
         });
     }
 
