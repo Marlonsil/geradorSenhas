@@ -41,7 +41,7 @@ function HomeScreen({navigation}) {
   }
 
   function importanciaSenha() {
-    navigation.navigate('ImporSenha'); // vai para a tela "ImporSenha"
+    navigation.navigate('ImporSenha'); 
   }
 
    
